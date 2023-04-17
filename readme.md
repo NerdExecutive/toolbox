@@ -152,7 +152,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/tsawler/toolbox"
+	"github.com/nerdexecutive/toolbox"
 	"log"
 	"net/http"
 )
@@ -292,7 +292,7 @@ You can use this kind of Go code:
 package main
 
 import (
-	"github.com/tsawler/toolbox"
+	"github.com/nerdexecutive/toolbox"
 	"log"
 	"net/http"
 )
@@ -380,7 +380,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/tsawler/toolbox"
+	"github.com/nerdexecutive/toolbox"
 )
 
 func main() {
